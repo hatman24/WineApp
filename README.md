@@ -1,0 +1,1 @@
+This is a wine tasting app. Developement beginning soon. Min android version required Froyo, but subject to change. Holo theme is being utilized.
