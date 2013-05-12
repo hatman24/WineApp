@@ -3,7 +3,10 @@ package com.wineapp;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+/*
+ * http://www.wine-searcher.com/ws-api.lml
+ * 
+ * */
 public class MainActivity extends Activity {
 
     @Override
